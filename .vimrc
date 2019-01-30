@@ -32,7 +32,7 @@ set softtabstop=4
 set expandtab
 set tabstop=4
 set smarttab
-set laststatus
+set laststatus=1
 set wildmode=list:longest
 
 set clipboard=unnamed
