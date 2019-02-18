@@ -8,7 +8,7 @@ set autoread
 set hidden
 
 syntax enable
-colorscheme monokai
+colorscheme molokai
 
 set nowrap
 
